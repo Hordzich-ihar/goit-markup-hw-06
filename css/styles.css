@@ -529,7 +529,6 @@ textarea {
   height: 56px;
   border-radius: 4px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-  margin-top: 48px;
   padding: 16px 32px;
   font-weight: 500;
   font-size: 16px;
@@ -715,9 +714,7 @@ textarea {
   }
 }
 @media only screen and (min-width: 1158px) {
-  .ourteam-team {
-    padding-top: 120px;
-  }
+
   .ourteam-item {
     max-width: 264px;
     width: calc((100% - 48px) / 3);
@@ -848,9 +845,7 @@ textarea {
   }
 }
 @media only screen and (min-width: 1158px) {
-  .portfolio {
-    padding-top: 120px;
-  }
+
   .portfolio-item {
     max-width: 360px;
     width: calc((100% - 48px) / 3);
